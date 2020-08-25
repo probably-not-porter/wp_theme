@@ -1,0 +1,13 @@
+/*
+    Theme Name: Test Theme
+    Author: Porter Libby
+*/
+body{
+    background-color: gray;
+}
+
+header{
+    background: white;
+    width: 100%;
+    height: 100px;
+}
